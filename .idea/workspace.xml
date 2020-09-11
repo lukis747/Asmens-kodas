@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b17e5e2-8f30-47f5-b67e-b3ed5eeca2d3" name="Default Changelist" comment="Migrations, Entity, Controllers">
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599747922884</updated>
       <workItem from="1599747924012" duration="9257000" />
-      <workItem from="1599758665743" duration="19427000" />
+      <workItem from="1599758665743" duration="20046000" />
     </task>
     <task id="LOCAL−00001" summary="Front end">
       <created>1599811323121</created>
