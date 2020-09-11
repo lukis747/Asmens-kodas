@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b17e5e2-8f30-47f5-b67e-b3ed5eeca2d3" name="Default Changelist" comment="Migrations, Entity, Controllers">
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8b17e5e2-8f30-47f5-b67e-b3ed5eeca2d3" name="Default Changelist" comment="Migrations, Entity, Controllers" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +135,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/packages/lukjon/personalcodelt/scr/ValidatorRules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -146,6 +143,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\tatkazino" />
       <recent name="C:\laragon\www\tatkazino\packages\lukjon\personalcodelt\scr\ValidatorRules" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -168,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599747922884</updated>
       <workItem from="1599747924012" duration="9257000" />
-      <workItem from="1599758665743" duration="20046000" />
+      <workItem from="1599758665743" duration="20412000" />
     </task>
     <task id="LOCAL−00001" summary="Front end">
       <created>1599811323121</created>
@@ -226,9 +224,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599767881748" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599764188492">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599812562002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599764188492" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599812562002" />
   </component>
 </project>
