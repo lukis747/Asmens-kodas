@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b17e5e2-8f30-47f5-b67e-b3ed5eeca2d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/packages/lukjon/personalcodelt/scr/ValidatorRules/HasCorrectControlSumRule.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/lukjon/personalcodelt/scr/ValidatorRules/HasCorrectGenderRule.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/lukjon/personalcodelt/scr/ValidatorRules/HasCorrectLengthRule.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/sections/form.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/sections/navbar.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tatkazino.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tatkazino.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8b17e5e2-8f30-47f5-b67e-b3ed5eeca2d3" name="Default Changelist" comment="Migrations, Entity, Controllers">
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/lukjon/personalcodelt/scr/PersonalCodeLT.php" beforeDir="false" afterPath="$PROJECT_DIR$/packages/lukjon/personalcodelt/scr/PersonalCodeLT.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,12 +167,30 @@
       <option name="presentableId" value="Default" />
       <updated>1599747922884</updated>
       <workItem from="1599747924012" duration="9257000" />
-      <workItem from="1599758665743" duration="19014000" />
+      <workItem from="1599758665743" duration="19427000" />
     </task>
+    <task id="LOCAL−00001" summary="Front end">
+      <created>1599811323121</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1599811323121</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Migrations, Entity, Controllers">
+      <created>1599811364989</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1599811364989</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Front end" />
+    <MESSAGE value="Migrations, Entity, Controllers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Migrations, Entity, Controllers" />
   </component>
   <component name="WindowStateProjectService">
     <state x="711" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599766628914">
@@ -202,10 +209,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599765748222" />
-    <state x="554" y="116" key="CommitChangelistDialog2" timestamp="1599811233109">
+    <state x="554" y="116" key="CommitChangelistDialog2" timestamp="1599811380668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="554" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1599811233109" />
+    <state x="554" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1599811380668" />
     <state x="551" y="420" key="NewPhpClassDialog" timestamp="1599760159323">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
