@@ -15,9 +15,9 @@ class CreatePeopleTable extends Migration
     {
         Schema::create('people', function (Blueprint $table) {
             $table->id();
-            $table->integer('personalCode');
+            $table->bigInteger('personalCode');
             $table->date('birthdate');
-            $table->integer('gender');
+            $table->string('gender');
             $table->integer('age');
             $table->integer('controlNumber');
             $table->boolean('personalCodeValidity');
