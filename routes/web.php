@@ -14,5 +14,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
+    return view('homepage');
+})->name('home');
+
+Route::post('validate','PersonalCodeController@validatePersonCode');
+Route::post('person','PersonalCodeController@save')->name('person.create');
+
